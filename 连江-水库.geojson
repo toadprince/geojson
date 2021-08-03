@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "resname": "山仔水库"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.31118011474608,
+          26.3706474699696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "resname": "北宫水库"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.48524475097656,
+          26.421082263667056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "resname": "龙宫里水库"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.568444,
+          26.264027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "resname": "锦溪水库"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.620078,
+          26.279933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "resname": "牛蔗一水库"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.63638,
+          26.33027
+        ]
+      }
+    }
+  ]
+}
