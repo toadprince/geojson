@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "潘渡溪闸"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.36754941940306,
+          26.291722082719392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "大港溪闸"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.48102295398712,
+          26.285301260786415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "百长溪闸"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.4850569963455,
+          26.287398287409815
+        ]
+      }
+    }
+  ]
+}
